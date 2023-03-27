@@ -5,3 +5,5 @@
 ![Sketch 1](./4.png)
 ![Sketch 1](./5.png)
 ![Sketch 1](./6.png)
+![Sketch](./sketch 1.jpeg)
+![Sketch](./sketch 2.jpeg)
